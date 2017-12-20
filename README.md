@@ -8,7 +8,7 @@ Please note that this repo only holds the game's scripts. The game also has a VR
 The objective of the game is to successfully shoot all of the 15 balloons with a dart gun before the 30 second timer ends,
 without accidentally shooting another night market visitor who randomly walks by.
 
-![Alt text](/blob/master/1.png?raw=true "Title")
+![Alt text](/Balloon-Massacre/1.png?raw=true "Title")
 
 # Gameplay 
 As a balloon is hit, the game text updates the score to let you know how many more balloons you need to hit in order to win. 
