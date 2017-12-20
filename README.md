@@ -2,6 +2,7 @@
 
 There are a lot of games to play at the night markets in Taiwan. 
 One game I have decided to interpret in a Unity game is a balloon shooting game.
+Please note that this repo only holds the game's scripts.
 
 # Objective 
 The objective of the game is to successfully shoot all of the 15 balloons with a dart gun before the 30 second timer ends,
