@@ -2,8 +2,9 @@
 
 There are a lot of games to play at the night markets in Taiwan. 
 One game I have decided to interpret in a Unity game is a balloon shooting game.
-Please note that this repo only holds the game's scripts. The game also has a VR and [AR](https://1drv.ms/u/s!At6l8HKrIGJWhLkheMbvfgW8aq-B_w) version. For the AR version, install and run the APK on an Android device and point the camera towards the picture of the astronaut which is attached in the .rar in the link in order to play.
-To run the game, please download and unzip [the following .rar](https://1drv.ms/u/s!At6l8HKrIGJWgo9zL0Ut4HtvjhkJNQ) from OneDrive (I know.. but I got 100GB for free there, so)
+Please note that this repo only holds the game's scripts. To run the game, please download and unzip [the following .rar](https://1drv.ms/u/s!At6l8HKrIGJWgo9zL0Ut4HtvjhkJNQ) from OneDrive (I know.. but I got 100GB for free there, so).
+The game also has a VR and [AR](https://1drv.ms/u/s!At6l8HKrIGJWhLkheMbvfgW8aq-B_w) version. For the AR version, install and run the APK on an Android device and point the camera towards the picture of the astronaut which is attached in the .rar in the AR link in order to play.
+
 
 # Objective 
 The objective of the game is to successfully shoot all of the 15 balloons with a dart gun before the 30 second timer ends,
