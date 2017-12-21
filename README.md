@@ -3,6 +3,7 @@
 There are a lot of games to play at the night markets in Taiwan. 
 One game I have decided to interpret in a Unity game is a balloon shooting game.
 Please note that this repo only holds the game's scripts. The game also has a VR and AR version.
+To run the game, please download and unzip [the following .rar](https://1drv.ms/u/s!At6l8HKrIGJWgo9zL0Ut4HtvjhkJNQ) from OneDrive (I know.. but I got 100GB for free there, so)
 
 # Objective 
 The objective of the game is to successfully shoot all of the 15 balloons with a dart gun before the 30 second timer ends,
